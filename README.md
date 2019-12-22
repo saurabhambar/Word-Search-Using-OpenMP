@@ -1,1 +1,1 @@
-# Word-Search-Using-OpenMP
+# Word-Search-Using-OpenMP#In this project, we developed the parallel algorithm for fast word search to determine the number of words/ presence of word in the document.
